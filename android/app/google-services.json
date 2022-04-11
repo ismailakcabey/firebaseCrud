@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328889464150",
+    "project_id": "vericekmeislemleri",
+    "storage_bucket": "vericekmeislemleri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328889464150:android:24e48ab24fbc5280c252f7",
+        "android_client_info": {
+          "package_name": "com.example.veri_cekme_islemleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328889464150-endtqbu6o0at7rp4lfe3vil7s0imk3of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeAOv3AoCMOSGrfOxXncGKpDuvGXg-OmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328889464150-endtqbu6o0at7rp4lfe3vil7s0imk3of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
